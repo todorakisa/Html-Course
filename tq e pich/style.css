@@ -1,0 +1,57 @@
+body
+{
+	background-color:black;
+	
+}
+ul
+{
+	text-align:center;
+}
+li
+{
+	color:green;
+}
+
+div
+{
+	text-align: center;
+}
+
+img
+{
+	margin:0 auto;
+	display: block;
+	height:55%;
+	width:65%;
+}
+
+h1
+{
+	text-align:center;
+	color:green;
+}
+
+h3
+{
+	text-align:center;
+	color:green;
+}
+
+a
+{
+	color:green;
+}
+
+table,th,td 
+
+{			
+			
+			color:green;
+                        border:3px solid green;
+                        border-collapse: collapse;
+                        padding:10px;
+                        border-spacing:10px;
+}
+
+
+

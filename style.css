@@ -1,0 +1,15 @@
+table,th,td {
+                        border:5px solid blue;
+                        border-collapse: collapse;
+                        padding:10px;
+                        border-spacing:10px;
+            }
+span
+	{
+		color:#ff66ff;	
+	}
+div
+	{
+		background-color:black;
+		color:yellow;
+	}

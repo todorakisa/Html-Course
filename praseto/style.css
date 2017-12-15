@@ -1,0 +1,26 @@
+body
+{
+	background-color:black;
+	
+}
+ul
+{
+	text-align: center;
+}
+li
+{
+	color:yellow;
+	float:center;
+	display:inline;
+}
+img
+{
+	margin:0 auto;
+	display: block;
+}
+h1
+{
+	text-align:center;
+	color:blue;
+}
+
